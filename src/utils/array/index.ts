@@ -1,0 +1,1 @@
+export const enumToArray = (enumerable): any[] => Object.values(enumerable);
